@@ -149,37 +149,9 @@ Credit-Card-Default-Prediction/
 - **train_dataset_final1.csv**: Training data with features and target variable for model development
 - **validate_dataset_final.csv**: Validation data without target variable for final predictions
 
-## 📋 Deliverables
-
-1. **Prediction File**: `submission_<EnrollmentNumber>.csv`
-   - Format: Customer_Id, next_month_default
-   - Binary predictions (0/1) for validation dataset
-
-2. **Code**: `code_notebook.ipynb`
-   - Complete reproducible analysis
-   - Data preprocessing to final predictions
-   - Clear documentation and comments
-
-3. **Report**: `report.pdf`
-   - Methodology and approach overview
-   - EDA findings and visualizations
-   - Model comparison and selection rationale
-   - Business implications and recommendations
-
 ## 👨‍💻 Author
 
 **Devendra Bainda**
-- Project: Finclub Summer Project 2 (2025)
-- Focus: Credit Card Behavior Score Prediction
-
-## 📊 Evaluation Criteria
-
-- **EDA & Financial Insight**: 30%
-- **Class Imbalance & Model Performance**: 30%
-- **Feature Engineering & Metric Justification**: 20%
-- **Code Quality & Report**: 20%
-
-**Final Evaluation**: Based on F2 Score performance on validation dataset
 
 ---
 
