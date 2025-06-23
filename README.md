@@ -1,6 +1,6 @@
 # Credit Card Default Prediction
 
-A machine learning project to predict credit card customer default behavior using behavioral and financial data. This project was developed as part of the **Finclub Summer Project 2 (2025)**.
+A machine learning project to predict credit card customer default behavior using behavioral and financial data. 
 
 ## 🎯 Project Overview
 
